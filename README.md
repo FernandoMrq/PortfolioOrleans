@@ -1,4 +1,4 @@
-****# PortfolioOrleans
+# PortfolioOrleans
 
 A .NET 10 ASP.NET Core Web API demonstrating **Microsoft Orleans**, a virtual actor framework for building distributed applications.
 
