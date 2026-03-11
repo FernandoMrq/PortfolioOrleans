@@ -2,7 +2,7 @@ using Orleans.Serialization;
 
 namespace PortfolioOrleans.Models;
 
-[GenerateSerializer, Alias(nameof(UrlDetails))]
+[GenerateSerializer]
 public sealed record class UrlDetails
 {
     [Id(0)]
